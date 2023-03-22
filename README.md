@@ -1,16 +1,11 @@
 # responsive_admin_panel
 
-A new Flutter project.
+Responsive Admin Panel Flutter UI , build by using flutter basics widgets & flutter svg & fl_chart & google fonts provider state management .
 
-## Getting Started
+## Screens it contains :
 
-This project is a starting point for a Flutter application.
+=> Home Screen
 
-A few resources to get you started if this is your first Flutter project:
+### Photos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (137)](https://user-images.githubusercontent.com/98716306/226976228-637a130d-d42a-4150-88e9-018924bde1bc.png)
